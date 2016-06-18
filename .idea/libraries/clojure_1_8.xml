@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="clojure-1.8">
+    <CLASSES>
+      <root url="file:///Library/clojure-1.8.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///Library/clojure-1.8.0/src/jvm" />
+      <root url="file:///Library/clojure-1.8.0/test/java" />
+    </SOURCES>
+    <jarDirectory url="file:///Library/clojure-1.8.0" recursive="false" />
+  </library>
+</component>
