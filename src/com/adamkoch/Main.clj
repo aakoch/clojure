@@ -1,1 +1,1 @@
-(println "Hello, world")
+(prn (str "Hello, " "Adam"))
